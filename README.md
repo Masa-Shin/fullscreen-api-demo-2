@@ -1,0 +1,2 @@
+- [デモサイト](https://masa-shin.github.io/fullscreen-api-demo-2/)
+- [解説記事](https://zenn.dev/popopon/articles/scrollable-fullscreen-video)
